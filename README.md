@@ -12,7 +12,7 @@ $ pip install -r requirements.txt
 ```
 ## Algorithms
 ### FAST Algorithm for Corner Detection
-<i>FAST Algorithm for Corner Detection is a high speed algorithm detects features based on circular intensity, threshold value in a given pixel radius and p roportion of them are stored, then one with 'max' and 'min' intensity are compared to get the feature corner.</i>
+<i>FAST Algorithm for Corner Detection is a high speed algorithm detects features based on circular intensity, threshold value in a given pixel radius and p roportion of them are stored, then one with 'max' and 'min' intensity are compared to get the feature corner.</i><br>
 <img src="fast2.png" width="450">
 <img src="fast.png" width="450">
 ### Harris Corner Detection
