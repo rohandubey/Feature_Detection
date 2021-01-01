@@ -25,4 +25,4 @@ $ pip install -r requirements.txt
 <i> SIFT (Scale-Invariant Feature Transform) is a rotaion and scale invariant feature detector and thus is helpful as it maks out he boundary of the pixel circle selected and the freature selection based on scaling can be done.  </i>
 <img src="sift.png" width="600">
 ## Authors
-Made with ❤️ Rohan Dubey - Complete work
+Made with ❤️ by Rohan Dubey - Complete work
